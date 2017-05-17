@@ -96,6 +96,8 @@ p{
 	color: #FFEB3B;
 	font-size: 1.5em;
 	font-weight: 500;
+    background-color:rgba(0, 0, 0, 0.2);
+    margin-left: 1em;
 }
 
 /*guest*/
@@ -117,6 +119,8 @@ p{
 	padding-left: 1em;
 	padding-top: 1em;
 	font-weight: bold;
+    background-color:rgba(0, 0, 0, 0.1);
+    margin-left: 1em;
 	
 }
 
